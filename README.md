@@ -27,6 +27,6 @@ This is a simple whiteboard app created using React and Konva.
 3. Run the app: `npm start`
 
 ## snapshot
-<img width="1440" alt="Sample" src="../Whiteboard-Using-React-js/public/images">
+<img src="/images/sample.png" alt="Sample" width="1440" />
 
 
